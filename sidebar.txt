@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[urb:home|Door43 (urb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-urb|d43-urb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-urb/archive/master.zip|d43-urb.zip]]
+
+**Recent Changes**
+{{changes>ns = urb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/urb|Ethnologue data]]
+
